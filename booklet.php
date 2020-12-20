@@ -1,7 +1,9 @@
 <?php
 
-print <<EOF
+print <<<EOF
 
 <a href="javascript:alert('hi')"> Transcriber</a>
 
 EOF;
+
+?>
